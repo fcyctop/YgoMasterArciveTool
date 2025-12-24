@@ -1,5 +1,5 @@
 # YgoMasterArchiveTool
-A small tool for quickly managing archives of Offline Yu-Gi-Oh! Master Duel (PC) `https://github.com/pixeltris/YgoMaster.git`
+A small tool for quickly managing archives of Offline Yu-Gi-Oh! Master Duel (PC) [`https://github.com/pixeltris/YgoMaster.git`](https://github.com/pixeltris/YgoMaster.git)
 
 
 ---
@@ -25,14 +25,17 @@ A small tool for quickly managing archives of Offline Yu-Gi-Oh! Master Duel (PC)
 
 # Build
 ### 1. Pull code
-    > `git clone --recursive https://github.com/fcyctop/YgoMasterArciveTool.git`
-### 2. Build
-    - If the Visual Studio C++compiler is installed
-        - run `win_fuild_stcript.bat`
 
-    - Using cmake, run in project directory
-        > - `mkdir build`
-        > - `cd build`
-        > - `cmake ..`
+ `git clone --recursive https://github.com/fcyctop/YgoMasterArciveTool.git`
+
+### 2. Build
+
+- If the Visual Studio C++compiler is installed
+    - run `win_fuild_stcript.bat`
+
+- Using cmake, run in project directory
+    > - `mkdir build`
+    > - `cd build`
+    > - `cmake ..`
 
     
